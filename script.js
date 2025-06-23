@@ -1,2 +1,1 @@
-// Código reservado para interações futuras
-console.log("Portfólio carregado com sucesso!");
+console.log("Portfólio Matheus.dev carregado com sucesso!");
